@@ -1,2 +1,8 @@
 __pycache__/
 .idea/
+user_interface/.DS_Store
+report.html
+.DS_Store
+assets/
+pytest.log
+test/

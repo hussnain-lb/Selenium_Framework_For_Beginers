@@ -3,7 +3,7 @@ constants used in the project
 """
 
 # User Credentials
-EMAIL_ID = "admin"
+EMAIL_ID = "standard_user"
 PASSWORD = "secret_sauce"
 
 # Exception Messages

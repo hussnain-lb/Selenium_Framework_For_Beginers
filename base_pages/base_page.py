@@ -15,7 +15,7 @@ class BasePage:
         self.driver = driver
         self.elements = Elements()
 
-    def wait_and_get_element(self, element_locator, by=By.CSS_SELECTOR, time_out=5):
+    def wait_and_get_element(self, element_locator, by=By.CSS_SELECTOR, time_out=10):
 
         """
         wait and get element from the screen, block until given time out
